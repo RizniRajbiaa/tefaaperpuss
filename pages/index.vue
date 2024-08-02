@@ -27,7 +27,7 @@
 
 <style scoped>
 .container-fluid {
-  background-image:  url(assets/img/.webp);
+  background-image:  url(assets/img/zzz.webp);
   /*height: 100;
   background-position:  center;
   background-repeat: repeat;
